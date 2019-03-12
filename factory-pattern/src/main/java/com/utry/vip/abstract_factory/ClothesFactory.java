@@ -5,7 +5,7 @@ package com.utry.vip.abstract_factory;
  * <p>
  * 公司名称    :杭州初健网络科技有限公司
  * <p>
- * 系统名称    :初健电商平台-Mybatis+mysql 最新架构版 v7.20
+ * 系统名称    :初健电商平台-mybatis+mysql 最新架构版 v7.20
  * <p>
  * 类 名 称    :
  * <p>
@@ -13,11 +13,11 @@ package com.utry.vip.abstract_factory;
  * <p>
  * 业务描述    :
  * <p>
- * 作 者 名    :@Author Akang He
- * <p>
+ * 作 者 名    :@author akang he
+ * <P>
  * 开发日期    :2019-03-12-23:27
  * <p>
- * Created     :IntelliJ IDEA
+ * created     :intellij idea
  * <p>
  * **************************************************************
  * <p>
