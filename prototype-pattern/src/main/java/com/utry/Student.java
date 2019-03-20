@@ -54,13 +54,5 @@ public class Student implements Cloneable,Serializable {
 
         return copy;
     }
-
-    /**
-     * 作 者 名    :@Author Akang He
-     * <p>
-     * 开发日期    :2019-03-19-15:23
-     */
-    public static class utry {
-    }
 }
 
