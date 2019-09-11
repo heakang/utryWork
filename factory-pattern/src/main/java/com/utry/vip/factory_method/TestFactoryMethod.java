@@ -35,7 +35,7 @@ public class TestFactoryMethod {
         IClothesFactory leisureClothesFactory = new LeisureClothesFactory();
         leisureClothesFactory.make().produce();
 
-        IClothesFactory sportsClothesFactoryfactory = new SportsClothesFactory();
-        sportsClothesFactoryfactory.make().produce();
+        IClothesFactory sportsClothesFactory = new SportsClothesFactory();
+        sportsClothesFactory.make().produce();
     }
 }
